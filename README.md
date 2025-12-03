@@ -1,4 +1,4 @@
-# YOLO ONNX Runtime ARM Deployment
+# YOLO ONNX Runtime ARM Deployment Sample
 
 Deploy YOLO object detection and instance segmentation models on ARM boards using ONNX Runtime.
 
@@ -270,7 +270,7 @@ if (num_outputs_ == 2 && num_attributes == 116) {
 4. **Quantization** - Consider INT8 quantized models for 2-4x speedup
 
 
-## 📦 Exporting Models
+## Exporting Models
 
 ### Export Detection Model
 
